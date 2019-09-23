@@ -1,0 +1,13 @@
+.CodeMirror {
+  font-family: "MigMix 1M";
+}
+
+.editor-preview,
+.editor-preview-side{
+  font-family: "M PULS 1p";
+}
+
+.editor-preview code,
+.editor-preview-side code {
+  font-family: "Kosugi";
+}
